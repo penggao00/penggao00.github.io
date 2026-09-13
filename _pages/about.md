@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.cwi.nl/en/people/gao-peng/'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle: <a href='https://www.cwi.nl/en/people/gao-peng/'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
