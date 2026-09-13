@@ -6,7 +6,7 @@ subtitle: <a href='https://www.cwi.nl/en/people/gao-peng/'>Affiliations</a>. Add
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Prf_figure_pg.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>365</p>
@@ -28,4 +28,3 @@ latest_posts:
 ---
 Gao Peng is a PhD student at CWI, specializing in reinforcement learning and game theory. His PhD project focuses on multi-objective (multi-agent) reinforcement learning, aiming to enable intelligent decision-making in complex environments involving multiple objectives, partial observation, and numerous agents. In the A4E project, Gao conducts fundamental research inspired by energy transition scenarios, where users face conflicting objectives and multiple decision-makers. His long-term goal is to advance the capability of agents to approach optimal decisions in such challenging settings.
 Before pursuing his PhD at CWI, Gao earned an MRes from Lancaster University. Previously, he worked as a developer in China, focusing on artificial intelligence, robotics, and smart construction.
-
